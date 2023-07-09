@@ -5,6 +5,7 @@
     "lib": ["DOM", "DOM.Iterable", "ESNext"],
     "types": ["cypress", "node"],
     "isolatedModules": false,
-    "noImplicitAny": false
+    "noImplicitAny": false,
+    "resolveJsonModule": true
   }
 }
