@@ -48,4 +48,4 @@ cypress/videos
 .saleor-app-auth.json
 
 **/content/compiled-locales
-pnpm-lock.yaml
+# pnpm-lock.yaml
